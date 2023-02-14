@@ -1,0 +1,12 @@
+2023-02-13T14:50:17.592950Z 0 [Warning] [MY-011068] [Server] The syntax '--skip-host-cache' is deprecated and will be removed in a future release. Please use SET GLOBAL host_cache_size=0 instead.
+2023-02-13T14:50:17.601930Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.32) starting as process 126
+2023-02-13T14:50:17.610254Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2023-02-13T14:50:17.648609Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-02-13T14:50:19.393598Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-02-13T14:50:20.157292Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-02-13T14:50:20.158931Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-02-13T14:50:20.168584Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2023-02-13T14:50:20.230128Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: /var/run/mysqld/mysqlx.sock
+2023-02-13T14:50:20.230566Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.32'  socket: '/var/run/mysqld/mysqld.sock'  port: 0  MySQL Community Server - GPL.
+2023-02-13T14:50:25.139693Z 13 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.32).
+2023-02-13T14:50:27.722947Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.32)  MySQL Community Server - GPL.
